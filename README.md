@@ -1,7 +1,7 @@
 # Mean in Images
 
-This repository contains the code for my implementation of finding means in images. In the first part I have added the code for finding the mean in (28 * 28) images of MNIST 
-dataset. In the second part I have added the code for finding the mean in (128 * 128 * 3) images of faces.
+This repository contains the code for my implementation of finding means in images. In the first part I have added the code for finding the mean in `(28 X 28)` images of MNIST 
+dataset. In the second part I have added the code for finding the mean in `(128 X 128 X 3)` images of faces.
 
 The Visualization for the first part looks something like this:
 
